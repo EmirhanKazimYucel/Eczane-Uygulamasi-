@@ -13,7 +13,7 @@ namespace EczaneDBApp
 {
     public partial class Form4 : Form
     {
-        private string _baglantiString = "Host=localhost;Port=5432;Username=postgres;Password=757barhaR;Database=EczaneDB";
+        private string _baglantiString = "Host=localhost;Port=5432;Username=postgres;Password=######;Database=EczaneDB";
         public Form4()
         {
             InitializeComponent();
